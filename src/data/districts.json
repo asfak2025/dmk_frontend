@@ -1,0 +1,74 @@
+{
+  "groupBy": "districtId",
+  "results": [
+    {
+      "key": "DIS1753099437",
+      "callLogsLength": 600,
+      "positivePercentage": 51.5,
+      "negativePercentage": 48.5,
+      "districtName": "Ariyalur"
+    },
+    {
+      "key": "DIS1753162261",
+      "callLogsLength": 600,
+      "positivePercentage": 49.0,
+      "negativePercentage": 51.0,
+      "districtName": "Chengalpattu"
+    },
+    {
+      "key": "DIS1753100271",
+      "callLogsLength": 4400,
+      "positivePercentage": 48.27,
+      "negativePercentage": 51.73,
+      "districtName": "Chennai"
+    },
+    {
+      "key": "DIS1753099676",
+      "callLogsLength": 2000,
+      "positivePercentage": 48.9,
+      "negativePercentage": 51.1,
+      "districtName": "Coimbatore"
+    },
+    {
+      "key": "DIS1753100407",
+      "callLogsLength": 1800,
+      "positivePercentage": 49.61,
+      "negativePercentage": 50.39,
+      "districtName": "Cuddalore"
+    },
+    {
+      "key": "DIS1753162134",
+      "callLogsLength": 500,
+      "positivePercentage": 48.0,
+      "negativePercentage": 52.0,
+      "districtName": "Dharmapuri"
+    },
+    {
+      "key": "DIS1753100464",
+      "callLogsLength": 1400,
+      "positivePercentage": 50.71,
+      "negativePercentage": 49.29,
+      "districtName": "Dindigul"
+    },
+    {
+      "key": "DIS1753100562",
+      "callLogsLength": 1600,
+      "positivePercentage": 47.0,
+      "negativePercentage": 53.0,
+      "districtName": "Erode"
+    },
+    {
+      "key": "DIS1753100760",
+      "callLogsLength": 400,
+      "positivePercentage": 50.25,
+      "negativePercentage": 49.75,
+      "districtName": "Kallakurichi"
+    }
+  ],
+  "totalGroups": 38,
+  "overallStats": {
+    "totalCalls": 31136,
+    "positivePercentage": 49.47,
+    "negativePercentage": 50.53
+  }
+}
